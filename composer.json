@@ -1,0 +1,12 @@
+{
+    "name": "srdjanmarjanovic/order",
+    "description": "Simple order interface",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Srdjan Marjanovic",
+            "email": "srdjan.marjan@gmail.com"
+        }
+    ],
+    "require": {}
+}
